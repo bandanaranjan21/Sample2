@@ -120,6 +120,7 @@ name = "Bro"
 
 while 1==1:
     print("well done")
+    name = input("Are you doing good :? ")
   
 
 
